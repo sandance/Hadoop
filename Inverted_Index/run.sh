@@ -1,0 +1,1 @@
+avac -classpath /usr/local/hadoop/hadoop-core-1.2.1.jar:/usr/local/hadoop/lib/commons-cli-1.2.jar:/usr/local/hadoop/lib/commons-lang-1.0.jar  -d Inverted_Index/classes Inverted_Index/src/InvertedIndex.ja
